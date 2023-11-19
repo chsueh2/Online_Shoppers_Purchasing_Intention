@@ -5,21 +5,20 @@ Perform EDA and predictions online shoppers' purchasing intention ([UCI ML Repo]
 Key features:
 
 - Exploratory data analysis (EDA)
-- Bar plot, Histogram, Correlation Plot, Scatter Plot Matrix, Box Plot
-- Loss Function
-- Grid Search
-- Gradient Descent Algorithm
-- Linear Regression
+- Bar plot, Correlation Plot
+- Pandas on Spark and Spark SQL
+- Cross Validation
+- Decision Tree Classifier
+- Random Forests Classifier
+- Logistic Regression
 
 Modules used:
 
 - `numpy`: Python library used for working with arrays
 - `pandas`: data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 - `matplotlib.pyplot`: plotting library for creating static, animated, and interactive visualizations
-- `scipy.stats`: modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more
-- `seaborn`: visualization library of a high-level interface for drawing attractive statistical graphics
-- `math`: provides access to the mathematical functions
-
+- `pyspark.sql`: Important classes of Spark SQL and DataFrames.
+- `pyspark.ml`: DataFrame-based machine learning APIs to let users quickly assemble and configure practical machine learning pipelines.
 
 ## Project Report
 
