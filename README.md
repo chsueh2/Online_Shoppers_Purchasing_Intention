@@ -25,9 +25,9 @@ Modules used:
 
 [Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Online_Shoppers_Purchasing_Intention/main/online_shoppers.html) ([HTML](./online_shoppers.html))
 
-- [Jupyter Notebook： Part 0 - data](./Part0_data.ipynb)
-- [Jupyter Notebook： Part 1-3 - analysis](./Part1-3_analysis.ipynb)
-- [Jupyter Notebook： Part 4 - ML models](./Part4_ MLv2.ipynb)
+- [Jupyter Notebook：Part 0 - data](./Part0_data.ipynb)
+- [Jupyter Notebook：Part 1-3 - analysis](./Part1-3_analysis.ipynb)
+- [Jupyter Notebook：Part 4 - ML models](./Part4_ MLv2.ipynb)
 
 The analysis results with theoretical backgrounds are included.
 
