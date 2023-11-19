@@ -46,6 +46,9 @@ Fit machine learning models including logistic regression and two tree-based cla
 1. Intro (and data prep)
 2. EDA
 3. Modeling (3 models)
+   - Logistic regression
+   - Decision tree
+   - Random forest
 4. Comparison and Conclusion
 
 ![](./model_comparison.png)
