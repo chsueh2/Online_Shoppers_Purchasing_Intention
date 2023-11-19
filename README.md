@@ -23,7 +23,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Grid_Search_GD/main/BikeSales_EDA_GridSearch_GD.html) ([HTML](./online_shoppers.html))
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Online_Shoppers_Purchasing_Intention/main/online_shoppers.html) ([HTML](./online_shoppers.html))
 
 - [Jupyter Notebook： Part 0 - data](./Part0_data.ipynb)
 - [Jupyter Notebook： Part 1-3 - analysis](./Part1-3_analysis.ipynb)
