@@ -2,6 +2,8 @@
 
 Perform EDA and predictions online shoppers' purchasing intention ([UCI ML Repo](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)) using supervised learning algorithms including logistic regression, decision tree and random forests.
 
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Online_Shoppers_Purchasing_Intention/main/online_shoppers.html)
+
 Key features:
 
 - Exploratory data analysis (EDA)
