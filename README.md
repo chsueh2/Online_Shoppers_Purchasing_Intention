@@ -54,3 +54,5 @@ Fit machine learning models including logistic regression and two tree-based cla
 4. Comparison and Conclusion
 
 ![](./model_comparison.png)
+
+![](./image1.png)
